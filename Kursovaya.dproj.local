@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/15 08:19:06.000.876,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/17 23:06:45.000.054,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/23 22:32:30.000.069,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/01 09:12:47.000.940,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/08 12:12:27.000.012,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/09 21:45:30.000.157,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/15 09:19:30.000.294,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/27 22:28:39.000.545,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/09 22:58:55.000.695,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/20 19:14:53.000.342,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/29 17:10:22.000.127,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/01 19:01:20.000.086,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/07 18:31:43.000.671,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/15 00:15:54.000.928,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/15 11:48:39.000.651,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/15 12:27:50.000.992,D:\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Documents\Embarcadero\Studio\Projects\Kursac.pas</Transaction>
+    <Transaction>2022/05/15 12:27:50.000.992,D:\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Documents\Embarcadero\Studio\Projects\Kursac.dfm</Transaction>
+    <Transaction>2022/05/15 12:28:00.000.485,D:\Documents\Embarcadero\Studio\Projects\Project10.dproj=D:\Documents\Embarcadero\Studio\Projects\Kursovaya.dproj</Transaction>
+    <Transaction>2022/05/15 12:46:17.000.934,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/15 13:38:05.000.917,D:\Documents\Embarcadero\Studio\Projects\Trophies.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/05/15 13:38:05.000.917,D:\Documents\Embarcadero\Studio\Projects\Trophies.pas=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/16 22:42:42.000.830,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/16 22:45:41.000.567,D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Documents\Embarcadero\Studio\Projects\Squad.dfm</Transaction>
+    <Transaction>2022/05/16 22:45:41.000.567,D:\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Documents\Embarcadero\Studio\Projects\Squad.pas</Transaction>
+    <Transaction>2022/05/16 22:48:12.000.509,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/16 22:49:54.000.558,D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Documents\Embarcadero\Studio\Projects\Coaches.dfm</Transaction>
+    <Transaction>2022/05/16 22:49:54.000.558,D:\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Documents\Embarcadero\Studio\Projects\Coaches.pas</Transaction>
+    <Transaction>2022/05/16 22:55:39.000.634,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/16 22:57:56.000.494,D:\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Documents\Embarcadero\Studio\Projects\President.pas</Transaction>
+    <Transaction>2022/05/16 22:57:56.000.494,D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Documents\Embarcadero\Studio\Projects\President.dfm</Transaction>
+    <Transaction>2022/05/20 22:54:20.000.231,D:\Documents\Embarcadero\Studio\Projects\Squad.dfm=D:\Documents\Embarcadero\Studio\Projects\Players.dfm</Transaction>
+    <Transaction>2022/05/20 22:54:20.000.231,D:\Documents\Embarcadero\Studio\Projects\Squad.pas=D:\Documents\Embarcadero\Studio\Projects\Players.pas</Transaction>
+    <Transaction>2022/05/22 20:28:58.000.574,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/22 20:30:34.000.806,D:\Documents\Embarcadero\Studio\Projects\AddTrophy.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/05/22 20:30:34.000.806,D:\Documents\Embarcadero\Studio\Projects\AddTrophy.pas=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/22 21:13:26.000.885,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/22 21:14:22.000.739,D:\Documents\Embarcadero\Studio\Projects\TrophyTypes.pas=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/22 21:15:20.000.524,D:\Documents\Embarcadero\Studio\Projects\uTrophyTypes.pas=D:\Documents\Embarcadero\Studio\Projects\TrophyTypes.pas</Transaction>
+    <Transaction>2022/05/24 02:25:38.000.000,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/24 03:32:56.000.120,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/24 03:41:17.000.461,D:\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Documents\Embarcadero\Studio\Projects\PlayersDB.pas</Transaction>
+    <Transaction>2022/05/24 03:41:31.000.469,D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Documents\Embarcadero\Studio\Projects\PlayersDBINFO.dfm</Transaction>
+    <Transaction>2022/05/24 03:41:31.000.469,D:\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Documents\Embarcadero\Studio\Projects\PlayersDBINFO.pas</Transaction>
+    <Transaction>2022/05/24 17:47:54.000.765,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/24 17:48:18.000.542,D:\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Documents\Embarcadero\Studio\Projects\uSort.pas</Transaction>
+    <Transaction>2022/05/24 17:49:37.000.169,=D:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/24 17:49:45.000.999,D:\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Documents\Embarcadero\Studio\Projects\uTypes.pas</Transaction>
+    <Transaction>2022/05/25 23:24:08.000.886,=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/25 23:25:01.000.100,D:\Documents\Embarcadero\Studio\Projects\President.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/05/25 23:25:01.000.100,D:\Documents\Embarcadero\Studio\Projects\President.pas=D:\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/26 13:44:31.000.095,D:\Documents\Embarcadero\Studio\Projects\Kursovaya.dproj=C:\Users\User\Desktop\Kursac net kurqil\Kursovaya.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="D:"/>
+    <File Path="D:\Documents"/>
+    <File Path="D:\Documents\Embarcadero"/>
+    <File Path="D:\Documents\Embarcadero\Studio"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\AddTrophy.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\AddTrophy.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Coaches.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Coaches.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Kursac.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Kursac.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Players.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Players.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\PlayersDB.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\PlayersDBINFO.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\PlayersDBINFO.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\President.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\President.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Trophies.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\Trophies.dfm"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\uSort.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\uTrophyTypes.pas"/>
+    <File Path="D:\Documents\Embarcadero\Studio\Projects\uTypes.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
