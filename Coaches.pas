@@ -5,17 +5,15 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons, COMobj,
-  Vcl.Menus, Vcl.Grids;
+  Vcl.Menus, Vcl.Grids, Data.DB, Vcl.ExtCtrls, Vcl.DBCtrls, Data.Win.ADODB,
+  Vcl.DBGrids;
 
 type
   TFCoaches = class(TForm)
-    MainMenu1: TMainMenu;
-    StringGrid1: TStringGrid;
-    Fil1: TMenuItem;
-    ReadExcel1: TMenuItem;
-    SaveExcel1: TMenuItem;
-    ExportExcel1: TMenuItem;
-    Button1: TButton;
+    DBGrid1: TDBGrid;
+    ADOTable1: TADOTable;
+    DataSource1: TDataSource;
+    DBNavigator1: TDBNavigator;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
   private

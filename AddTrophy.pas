@@ -30,23 +30,30 @@ var
 implementation
 
 {$R *.dfm}
+uses
+    uTrophyManager;
+
 
 procedure TfrmAddTrophy.ButtonAddClick(Sender: TObject);
 begin
-  ModalResult := mrOk;
+    ModalResult := mrOk;
 end;
 
 procedure TfrmAddTrophy.GetNewTrophy(var Trophy: TTrophiesData);
+var
+    Item : TTrophiesItem;
 begin
-  Trophy.Data.TrophyName := leTrophyName.Text;
-  Trophy.Data.Oponent := leOponent.Text;
-  Trophy.Data.Year := StrToInt(leYear.Text);
-  Trophy.Data.OponentScore := StrToInt(leOponentScore.Text);
-  Trophy.Data.TeamScore := StrToInt(leTeamScore.Text);
-  Trophy.Data.Country := leCountry.Text;
-  Trophy.Data.City := leCity.Text;
-  Trophy.Data.Attendance := StrToInt(leAttendance.Text);
-end;
+    Item.TrophyName := leTrophyName.Text;
+    Item.Oponent := leOponent.Text;
+    Item.Year := StrToInt(leYear.Text);
+    Item.OponentScore := StrToInt(leOponentScore.Text);
+    Item.TeamScore := StrToInt(leOponentScore.Text);
+    Item.Country := leCountry.Text;
+    Item.City := leCity.Text;
+    Item.Attendance:=StrToInt(leAttendance.Text);
+    Trophy.Data := Item;
+    AddTrophies(Item);
+  end;
 
 function TfrmAddTrophy.SetNewTrophy(var Trophy: TTrophiesData): TModalResult;
 begin

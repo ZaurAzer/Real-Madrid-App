@@ -12,7 +12,8 @@ uses
   PlayersDB in 'D:\Documents\Embarcadero\Studio\Projects\PlayersDB.pas',
   uSort in 'D:\Documents\Embarcadero\Studio\Projects\uSort.pas',
   uTypes in 'D:\Documents\Embarcadero\Studio\Projects\uTypes.pas',
-  President in 'D:\Documents\Embarcadero\Studio\Projects\President.pas' {FPresident};
+  President in 'D:\Documents\Embarcadero\Studio\Projects\President.pas' {FPresident},
+  uTrophyManager in 'D:\Documents\Embarcadero\Studio\Projects\uTrophyManager.pas';
 
 {$R *.res}
 

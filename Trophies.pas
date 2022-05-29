@@ -21,6 +21,7 @@ type
   private
     { Private declarations }
   public
+  procedure ListUpdate (var RTrophies : TTrophyList);
     { Public declarations }
   end;
 
@@ -31,7 +32,7 @@ var
 implementation
 
 uses
-  AddTrophy;
+  AddTrophy, uTrophyManager;
 
 var
   RTrophies: TTrophyList;
@@ -143,8 +144,9 @@ begin
 
   if ModalResult = mrOk then
   begin
-    AddTrophyToList(TrophyElement);
-    SetComboBox(cbTrophies, RTrophies);
+  ListUpdate(RTrophies);
+  AddTrophyToList(TrophyElement);
+  SetComboBox(cbTrophies, RTrophies);
   end;
 end;
 
@@ -163,6 +165,12 @@ begin
   FillStringGrid(lvTrophies, cbTrophies);
 end;
 
+procedure TFTrophies.ListUpdate (var RTrophies : TTrophyList);
+begin
+    RTrophies := GetTrophyItems;
+    FillStringGrid(lvTrophies, cbTrophies);
+end;
+
 procedure TFTrophies.FormCreate(Sender: TObject);
 begin
   SortStates.Year := False;
@@ -172,8 +180,9 @@ begin
   SortStates.Attendence := False;
   RTrophies.First := nil;
   RTrophies.Last := nil;
-//  FillStringGrid(lvTrophies);
+  ListUpdate(RTrophies);
   SetComboBox(cbTrophies, RTrophies);
+
 end;
 
 procedure SetListViewList(lvTrophies: TListView; TrophyList: TFilesList);
